@@ -8,14 +8,23 @@
  
   
  industry explained
+ 
  6+1 method of estimating housing market (model that I created)
+ 
  Web Scraping by Selenium
+ 
  Convolutional neural networks explained
+ 
  house or car (binary)
+ 
  house or car or neither (categorical)
+ 
  kitchen or living room or bedroom or bathroom or frontyard (categorical)
+ 
  low priced or medium priced or high priced
+ 
  	economic reasoning, zillow report, and previous research
+	
  price prediction by images
  
  NEXT: object detection and measuring...
